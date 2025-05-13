@@ -40,3 +40,7 @@ different occasions.
 -  Create Calculated Columns and Measures (DAX) in Power Pivot and Build Pivot Tables and Pivot Charts.
 -  Add Slicers and timelines for Interactivity and finally design the Dashboard Layout.
 
+## View Dashboard
+<img width="1388" alt="Screenshot 2025-05-13 at 16 31 25" src="https://github.com/user-attachments/assets/f6bc128a-224b-4226-a90a-821a72e76ff5" />
+
+
