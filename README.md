@@ -48,12 +48,11 @@ different occasions.
 - Total Revenue: ₹3,520,984
 - Average Customer Spend: ₹3,520.98
 - Average Order to Delivery Time: 5.53 days
--	Revenue Breakdown:
-	•	By Occasion: High revenue during Anniversary, Raksha Bandhan, and Valentine’s Day
-	•	By Category: Cake, Soft Toys, and Sweets are top-performing
-	•	By Month: Peak sales observed in July and September
-	•	By City: Imphal, Haridwar, and Kaval are top cities by order volume
-	•	By Hour: Orders peak during 12 PM to 10 PM
-	•	Top 5 Products: Include Dessert Box, Harum Pack, and Quia Gift
+- By Occasion: High revenue during Anniversary, Raksha Bandhan, and Valentine’s Day
+- By Category: Cake, Soft Toys, and Sweets are top-performing
+- By Month: Peak sales observed in July and September
+- By City: Imphal, Haridwar, and Kaval are top cities by order volume
+- By Hour: Orders peak during 12 PM to 10 PM
+- Top 5 Products: Include Dessert Box, Harum Pack, and Quia Gift
 
 
