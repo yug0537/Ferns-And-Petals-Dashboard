@@ -6,8 +6,10 @@ To perform a comprehensive sales performance analysis using Excel and visually r
 <a href="https://github.com/yug0537/Ferns-And-Petals-Dashboard/tree/main/Fnp%20Sales">FNP Raw Data</a>
 ## Tools Used
 Microsoft Excel
+Power Pivot
 Pivot Tables
-Charts (Bar, Line, Column)
-Slicers for interactivity
+Charts(Bar,Lines,Column)
+Slicers and Timelines for interactivity
+
 
 ## Question KPI'S
