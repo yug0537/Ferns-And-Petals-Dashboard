@@ -31,4 +31,5 @@ different occasions.
 - Product Popularity by Occasion: Identify which products are most popular during
 
 ## Dashboard Interaction
+- <a href="https://github.com/yug0537/Ferns-And-Petals-Dashboard/blob/main/Ferns_Petals_Dashboard.xlsx">Dashboard<a/>
 
