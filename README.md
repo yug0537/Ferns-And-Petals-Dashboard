@@ -55,4 +55,7 @@ different occasions.
 - By Hour: Orders peak during 12 PM to 10 PM
 - Top 5 Products: Include Dessert Box, Harum Pack, and Quia Gift
 
+## Final Conclusion
+The dashboard enabled stakeholders to quickly identify trends, high-performing products, and profitable customer segments, thereby improving strategic sales planning.
+
 
