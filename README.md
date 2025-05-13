@@ -37,4 +37,6 @@ different occasions.
 -  Import & Prepare Data : Load all related tables (e.g., Orders, Products, Categories, Customers) into Excel or directly into Power Pivot.
 -  Ensure data is clean: remove duplicates, standardize text fields, and ensure proper data types for dates and numbers.
 -  Load Data into Power Pivot : Defined relationships between tables in the Diagram View to fetch details in one table from another.
+-  Create Calculated Columns and Measures (DAX) in Power Pivot and Build Pivot Tables and Pivot Charts.
+-  Add Slicers and timelines for Interactivity and finally design the Dashboard Layout.
 
