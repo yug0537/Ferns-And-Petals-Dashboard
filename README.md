@@ -33,3 +33,8 @@ different occasions.
 ## Dashboard Interaction
 - <a href="https://github.com/yug0537/Ferns-And-Petals-Dashboard/blob/main/Ferns_Petals_Dashboard.xlsx">Dashboard<a/>
 
+## Process
+-  Import & Prepare Data : Load all related tables (e.g., Orders, Products, Categories, Customers) into Excel or directly into Power Pivot.
+-  Ensure data is clean: remove duplicates, standardize text fields, and ensure proper data types for dates and numbers.
+-  Load Data into Power Pivot : Defined relationships between tables in the Diagram View to fetch details in one table from another.
+
