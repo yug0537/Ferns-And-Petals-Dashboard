@@ -29,3 +29,6 @@ times.
 - Revenue Comparison Between Occasions: Compare revenue generated across
 different occasions.
 - Product Popularity by Occasion: Identify which products are most popular during
+
+## Dashboard Interaction
+
