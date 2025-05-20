@@ -29,7 +29,7 @@ different occasions.
 - Product Popularity by Occasion: Identify which products are most popular during
 
 ## Dashboard Interaction
-- <a href="https://github.com/yug0537/Ferns-And-Petals-Dashboard/blob/main/Ferns_Petals_Dashboard.xlsx">Dashboard<a/>
+- <a href="[https://github.com/yug0537/Ferns-And-Petals-Dashboard/blob/main/Ferns_Petals_Dashboard.xlsx">Dashboard<a/>
 
 ## Process
 -  Import & Prepare Data : Load all related tables (e.g., Orders, Products, Categories, Customers) into Excel or directly into Power Pivot.
